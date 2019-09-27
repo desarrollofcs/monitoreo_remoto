@@ -25,11 +25,15 @@ Se incluye un apartado de alertas, las cuales se configuran con base en las nece
 
 ### Raspberry Pi
 
-Ordenador de placa reducida, con software de código abierto, siendo su sistema operativo oficial una versión adaptada de Debian
+Ordenador de placa reducida, con software de código abierto, siendo su sistema operativo oficial una versión adaptada de Debian, denominada [Raspbian](#Raspbian), aunque permite urilizar otros sistemas operativos.
+
+ Incluye un procesador Broadcom, memoria RAM, GPU, puertos USB, HDMI, Ethernet, 40 pines GPIO y un conector para cámara.
 
 <p align="center">
-<img width="300" height="300" src="https://core-electronics.com.au/media/catalog/product/cache/1/image/650x650/fe1bcd18654db18f328c2faaaf3c690a/p/i/pi-4_2.jpg">
+<img width="300" height="200" src="https://media.rs-online.com/t_large/F8968660-01.jpg">
 </p>
+
+<div id='Raspbian' />
 
 ### Raspbian
 
