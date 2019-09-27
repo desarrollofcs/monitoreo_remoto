@@ -6,13 +6,20 @@ El procesamiento de datos permite generar un monitoreo local mediante un dashboa
 
 Se incluye un apartado de alertas, las cuales se configuran con base en las necesidades del usuario.
 
-## Equipo necesario
+## Prerequisitos
+
+### Hardware
 
 - [Raspberry Pi](#Raspberry)
+- [Memoria MicroSD](#MicroSD)
+- [Sensores](#Sensores)
+
+### Software
+
 - [Raspbian OS](#Raspbian)
 - [Etcher](#Etcher)
-- [Memoria MicroSD](#MicroSD)
 - [NodeRED](#NodeRED)
+
 
 <div id='Raspberry' />
 
@@ -20,7 +27,9 @@ Se incluye un apartado de alertas, las cuales se configuran con base en las nece
 
 Ordenador de placa reducida, con software de código abierto, siendo su sistema operativo oficial una versión adaptada de Debian
 
-<img src="https://core-electronics.com.au/media/catalog/product/cache/1/image/650x650/fe1bcd18654db18f328c2faaaf3c690a/p/i/pi-4_2.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<p align="center">
+<img width="300" height="300" src="https://core-electronics.com.au/media/catalog/product/cache/1/image/650x650/fe1bcd18654db18f328c2faaaf3c690a/p/i/pi-4_2.jpg">
+</p>
 
 ### Raspbian
 
