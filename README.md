@@ -33,15 +33,35 @@ Ordenador de placa reducida, con software de código abierto, siendo su sistema 
 <img width="300" height="200" src="https://media.rs-online.com/t_large/F8968660-01.jpg">
 </p>
 
+<div id='MicroSD' />
+
+### Memoria MicroSD
+
+<div id='Sensores' />
+
+### Sensores
+
+#### Sensor de temperatura
+
+#### Sensor de presencia
+
+#### Sensor de puerta abierta
+
+#### Sensor de inundación
+
 <div id='Raspbian' />
 
 ### Raspbian
 
+<div id='Etcher' />
+
 ### Etcher
 
-### MicroSD
+<div id='NodeRED' />
 
 ### NodeRED
+
+
 
 ### Versiones
 
